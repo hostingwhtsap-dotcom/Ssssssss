@@ -1,0 +1,6 @@
+{
+  "name": "Customer Support",
+  "description": "WhatsApp-style customer chat conversation interface with live messaging, authentic green header, message bubbles, and bottom composer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
